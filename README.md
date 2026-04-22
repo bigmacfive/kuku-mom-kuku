@@ -13,7 +13,7 @@ Kuku combines plain-file markdown editing, wikilinks/backlinks, graph view, and 
 
 Supports **macOS** today. Windows/Linux are on the roadmap.
 
-![Kuku desktop preview](docs/screenshots/kuku-desktop-preview.png)
+![Kuku desktop preview](docs/screenshots/kuku-tauri-app-light.png)
 
 ## Why Kuku
 

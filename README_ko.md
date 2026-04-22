@@ -13,7 +13,7 @@ Kuku는 일반 파일 기반 마크다운 편집, 위키링크/백링크, 그래
 
 현재 **macOS** 지원. Windows/Linux는 로드맵에 있습니다.
 
-![Kuku desktop preview](docs/screenshots/kuku-tauri-app-light.png)
+![Kuku desktop preview](docs/screenshots/kuku-desktop-preview.png)
 
 ## 왜 Kuku인가
 
